@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" fill="none" stroke-linejoin="round" stroke-linecap="round">
+  <style>.r{stroke:#0b0d12}.b{fill:#1c45c2}@media (prefers-color-scheme:dark){.r{stroke:#eef0f4}.b{fill:#8d9cff}}</style>
+  <path class="b" d="M7.5 27 15.5 12.5 23.5 27Z"/>
+  <circle cx="27" cy="7" r="4.4" fill="#f5cc58"/>
+  <path class="r" d="M20 5H9q-4 0-4 4v16q0 4 4 4h16q4 0 4-4V14" stroke-width="4.2"/>
+</svg>
